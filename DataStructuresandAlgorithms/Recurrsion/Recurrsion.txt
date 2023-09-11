@@ -1,0 +1,28 @@
+﻿//Recursion- Paste this code in Program.cs
+
+////MinusByOne(5);
+//Console.WriteLine(Factorial(3));
+
+////void MinusByOne(int n)
+////{
+////    if (n != 0)
+////    {
+////        MinusByOne(n - 1);
+////    }
+////    Console.WriteLine("Call : " + n);
+////}
+
+//int Factorial(int n)
+//{
+//    if(n== 0)
+//    {
+//        return 0;
+//    }
+//    int fac = 1;
+//    for (int i = n; i > 0; i--)
+//    {
+//        fac = fac * i;
+//    }
+//    return fac;
+//}
+
